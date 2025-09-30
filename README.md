@@ -42,4 +42,3 @@ Beam search improves output consistency and fluency
 
 Works efficiently for both single sentences and dataset-based batch translations
 
-Outputs can be integrated into applications, dashboards, or other workflows
